@@ -27,9 +27,10 @@ It will then display any books you have saved in the file which would be zero if
 Once the program has finished loading the books you will be given a menu where you can
 1) Add Books
 2) Edit Books
-3) Remove Books
-4) Search Library
-5) Display Library Contents
-6) Quit
+3) Add Review
+4) Remove Books
+5) Search Library
+6) Display Library Contents
+7) Quit
 
 Each of these choices have prompts within which will guide you through the creation of your books
